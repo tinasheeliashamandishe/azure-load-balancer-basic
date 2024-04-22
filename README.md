@@ -1,4 +1,4 @@
-<h1>Azure Load Balancer :Basic (Will be retired 30 September 2025) </h1>
+<h1>Azure Load Balancer : Basic (Will be retired 30 September 2025) </h1>
 
 <h2>Description</h2>
 This lab will show how a Basic Azuure Loadbalancer works.<br/><br />
@@ -24,14 +24,14 @@ Azure Load Balancer plays a crucial role in building scalable and highly availab
 
 <p align="center">
 <h4>Lab Topology:</h4>
-In this Lab there are 2 virtual machines, running IIS. They do no have public IP addreses. The loadbalancer sists infront of them with a public IP address.<br />
+In this Lab there are 2 virtual machines, running IIS. They do no have public IP addreses. The loadbalancer sits infront of them with a public IP address.<br />
 The loadbalancer will be used to reach the VMs.
   <br/>
 <img src="https://i.imgur.com/fVLWRPj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <h4> Step 1:</h4>
-Deploy 2 virtual machines, in the same subnet and availability set. Install IIS on both virtualmachines<br />
+Deploy 2 virtual machines, in the same subnet and availability set. Install IIS on both virtual machines<br />
 <img src="https://i.imgur.com/7HvkWE3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
 <br />
 
