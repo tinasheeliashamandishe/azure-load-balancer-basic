@@ -1,7 +1,7 @@
 <h1>Azure Load Balancer : Basic (Will be retired 30 September 2025) </h1>
 
 <h2>Description</h2>
-This lab will show how a Basic Azuure Loadbalancer works.<br/><br />
+This lab will show how a Basic Azure Loadbalancer works.<br/><br />
 
 Azure Load Balancer is a networking service provided by Microsoft Azure, designed to distribute incoming network traffic across multiple resources, such as virtual machines (VMs), virtual machine scale sets, or application gateways. It enhances the availability and reliability of applications by ensuring that they are not overloaded and by providing redundancy in case of failures.
 <br /><br />
